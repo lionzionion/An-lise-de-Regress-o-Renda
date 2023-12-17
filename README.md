@@ -5,6 +5,8 @@ Este repositório contém códigos em Python para realizar análises de regress�
 ## Regressão Linear Simples: 
 O ajuste de um modelo de regressão linear simples para prever a variável de resposta "renda" com base na variável explicativa "tempo_emprego".
 
-## Análise de Resíduos e Melhorias na Regressão: Uma análise de resíduos é realizada no modelo de regressão linear simples, e melhorias são propostas. Isso inclui a remoção de variáveis não significativas.
+## Análise de Resíduos e Melhorias na Regressão:
+Uma análise de resíduos é realizada no modelo de regressão linear simples, e melhorias são propostas. Isso inclui a remoção de variáveis não significativas.
 
-Regressão Linear Múltipla: Ajuste de um modelo de regressão linear múltipla para explicar a variável de resposta "renda" usando várias variáveis explicativas. Novamente, uma análise de resíduos é conduzida.
+## Regressão Linear Múltipla: 
+Ajuste de um modelo de regressão linear múltipla para explicar a variável de resposta "renda" usando várias variáveis explicativas. Novamente, uma análise de resíduos é conduzida.
